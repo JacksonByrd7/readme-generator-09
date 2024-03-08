@@ -1,9 +1,9 @@
-# readmegenerator
+# readme generator
 
   
   
   ## Description:
-  to generate readmnes
+  generate readmes
   
   ## Table of Contents:
   - [Installation Instructions](#Installation-Instructions)
@@ -33,7 +33,7 @@
    
   
   ## Questions:
-  For additonal questions or open feedback, feel free to contact me at my email:someone@email.com. 
+  For additonal questions or open feedback, feel free to contact me at my email:someone@sampleemail.com. 
   You can also find me on Github at [undefined](https://github.com/undefined).
   
   © 2023 Confidential and Proprietary. All Rights Reserved.
